@@ -1,0 +1,89 @@
+commit 935720d6683988436abdeefc1eddc3610eca0489
+Merge: 4722ec6 f8882d4
+Author: luis <rosalescaero@gmail.com>
+Date:   Fri May 1 22:49:54 2020 -0500
+
+    Merge branch 'release1.0'
+    release 1.0
+
+commit f8882d499f932e0c094d5f3ae33c57fb62472210
+Merge: a365860 f85a851
+Author: luis <rosalescaero@gmail.com>
+Date:   Fri May 1 22:44:09 2020 -0500
+
+    Merge branch 'feature' into develop
+    caracteristica 5 - R1
+
+commit f85a851d793c0838488be83da8d9e27845cf398d
+Author: luis <rosalescaero@gmail.com>
+Date:   Fri May 1 22:41:14 2020 -0500
+
+    caracteristica 5 - R1
+
+commit a365860b8a7542c9ed4c3c88a8b492edb78b47f3
+Merge: aa72651 e5bf757
+Author: luis <rosalescaero@gmail.com>
+Date:   Fri May 1 22:37:19 2020 -0500
+
+    Merge branch 'feature' into develop
+    caracteristica 4 - R5
+
+commit e5bf757516d3ad1b90aace7e7a88297b9a02baf3
+Author: luis <rosalescaero@gmail.com>
+Date:   Fri May 1 22:33:39 2020 -0500
+
+    caracteristica 4 - R1
+
+commit aa72651f89fde0217671a50de8209e89eaaf7961
+Merge: 9ae0060 65d7fe6
+Author: luis <rosalescaero@gmail.com>
+Date:   Fri May 1 22:29:30 2020 -0500
+
+    Merge branch 'feature' into develop
+    caracteristica 3 - R1
+
+commit 65d7fe64a886c5e353351fe90bf98b521eb9f0a0
+Author: luis <rosalescaero@gmail.com>
+Date:   Fri May 1 22:25:55 2020 -0500
+
+    caracterisita 3 - R1
+
+commit 9ae006078829e9d8dc8220fa105455789d3a1fcd
+Merge: 117e8d7 936da00
+Author: luis <rosalescaero@gmail.com>
+Date:   Fri May 1 22:18:33 2020 -0500
+
+    Merge branch 'feature' into develop
+    caracteristica 2 - R1
+
+commit 936da00ee9708a386a96365d8aa06a2d11c5841a
+Author: luis <rosalescaero@gmail.com>
+Date:   Fri May 1 22:11:19 2020 -0500
+
+    caracteristica 2 - R1
+
+commit 117e8d720cc13a40e867cc1d9da23abf805ffcb0
+Author: luis <rosalescaero@gmail.com>
+Date:   Fri May 1 21:56:59 2020 -0500
+
+    correccion de erro "feature1"
+
+commit e644f34319d8d0c4a02b375fd1567408b98dd2ad
+Merge: 4722ec6 eae037d
+Author: luis <rosalescaero@gmail.com>
+Date:   Fri May 1 21:54:36 2020 -0500
+
+    Merge branch 'feature' into develop
+    caracteristica 1 - R1
+
+commit eae037da1c3e601b38d118f886eb449c264ae3db
+Author: luis <rosalescaero@gmail.com>
+Date:   Fri May 1 21:49:22 2020 -0500
+
+    caracteristica 1 - R1
+
+commit 4722ec6af28a48c1f6eef85c3bb4e74ce21fc83c
+Author: luis <rosalescaero@gmail.com>
+Date:   Fri May 1 21:46:10 2020 -0500
+
+    readme
