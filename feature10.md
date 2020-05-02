@@ -1,1 +1,1 @@
-caracteristica 5 que pertenece al release 2
+FIXED caracteristica 5 que pertenece al release 2
